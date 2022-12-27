@@ -5,12 +5,12 @@ Trong bản tin này, chúng ta sẽ nói về những điều sau:
 
 - Cách lưu trữ mật khẩu một cách an toàn trong database và cách xác thực mật khẩu
 
-## Cách HTTPS hoạt động ?
+## Cách hoạt động của HTTPS?
 
 - Hypertext Transfer Protocol Secure (HTTPS) là một phần mở rộng của Hypertext Transfer Protocol (HTTP). HTTPS truyền dữ liệu đã mã hóa sử dụng Transport Layer Security (TLS). Nếu dữ liệu bị hacked thì hacker chỉ lấy được dữ liệu ở dạng binary code.
 
 
-![alt text](./images/how-does-https-work.png?raw=true "Cách HTTPS hoạt động")
+![alt text](./images/how-does-https-work.png?raw=true "Cách hoạt động HTTPS")
 
 ## Dữ liệu được mã hóa và giải mã như thế nào ?
 
